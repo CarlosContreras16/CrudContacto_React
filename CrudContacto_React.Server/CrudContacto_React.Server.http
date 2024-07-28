@@ -1,0 +1,6 @@
+@CrudContacto_React.Server_HostAddress = http://localhost:5218
+
+GET {{CrudContacto_React.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
